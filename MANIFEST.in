@@ -1,0 +1,3 @@
+include navarp/gui/*.ui
+include navarp/gui/icons/navarp.svg
+include navarp/weights.pt
